@@ -1,0 +1,1 @@
+The first project created without npx or package.json.
