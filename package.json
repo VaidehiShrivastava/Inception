@@ -1,0 +1,22 @@
+{
+  "name": "proj-without-cra",
+  "version": "1.0.0",
+  "description": "This is a project without cra",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaidehiShrivastava/Inception.git"
+  },
+  "author": "Vaidehi Shrivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaidehiShrivastava/Inception/issues"
+  },
+  "homepage": "https://github.com/VaidehiShrivastava/Inception#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
