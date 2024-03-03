@@ -4,6 +4,7 @@
   "description": "This is a project without cra",
   "main": "App.js",
   "scripts": {
+    "start": "parcel index.html",
     "test": "jest"
   },
   "repository": {
@@ -17,6 +18,11 @@
   },
   "homepage": "https://github.com/VaidehiShrivastava/Inception#readme",
   "devDependencies": {
-    "parcel": "^2.11.0"
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
